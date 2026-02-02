@@ -1,0 +1,13 @@
+{
+  "name": "grundlagen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
