@@ -1,7 +1,7 @@
 {
     // Editor settings
     "editor.tabSize": 4,
-    "editor.fontSize": 21,
+    "editor.fontSize": 18,
     "editor.rulers": [80, 120],
     "editor.renderWhitespace": "trailing",
     "editor.suggestSelection": "first",
